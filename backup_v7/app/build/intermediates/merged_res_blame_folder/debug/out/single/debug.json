@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.helloworld.app-merged_res-21:/drawable_code_bg.xml.flat",
+        "source": "com.example.helloworld.app-main-23:/drawable/code_bg.xml"
+    },
+    {
+        "merged": "com.example.helloworld.app-merged_res-21:/drawable_input_bg.xml.flat",
+        "source": "com.example.helloworld.app-main-23:/drawable/input_bg.xml"
+    },
+    {
+        "merged": "com.example.helloworld.app-merged_res-21:/drawable_bubble_user.xml.flat",
+        "source": "com.example.helloworld.app-main-23:/drawable/bubble_user.xml"
+    },
+    {
+        "merged": "com.example.helloworld.app-merged_res-21:/layout_activity_main.xml.flat",
+        "source": "com.example.helloworld.app-main-23:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.helloworld.app-merged_res-21:/drawable_card_bg.xml.flat",
+        "source": "com.example.helloworld.app-main-23:/drawable/card_bg.xml"
+    },
+    {
+        "merged": "com.example.helloworld.app-merged_res-21:/drawable_btn_round.xml.flat",
+        "source": "com.example.helloworld.app-main-23:/drawable/btn_round.xml"
+    },
+    {
+        "merged": "com.example.helloworld.app-merged_res-21:/drawable_bubble_ai.xml.flat",
+        "source": "com.example.helloworld.app-main-23:/drawable/bubble_ai.xml"
+    }
+]

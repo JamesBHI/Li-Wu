@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color aiBubble
+color codeBg
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+color divider
+color drawerBg
+color userBubble
+drawable btn_round
+drawable bubble_ai
+drawable bubble_user
+drawable card_bg
+drawable code_bg
+drawable input_bg
+id btnMenu
+id btnNewChat
+id btnNewFromDrawer
+id btnSend
+id chatLayout
+id conversationCount
+id conversationList
+id drawerContent
+id drawerLayout
+id inputMessage
+id scrollView
+id titleText
+id topBar
+layout activity_main
